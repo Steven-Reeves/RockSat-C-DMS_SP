@@ -16,7 +16,7 @@ namespace RockSat_C_UI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new splash_page());
         }
     }
 }

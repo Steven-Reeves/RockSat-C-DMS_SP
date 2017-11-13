@@ -1,6 +1,6 @@
 ﻿namespace RockSat_C_UI
 {
-    partial class login_form
+    partial class signup_form
     {
         /// <summary>
         /// Required designer variable.

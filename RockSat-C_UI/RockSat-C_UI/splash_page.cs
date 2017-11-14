@@ -22,16 +22,22 @@ namespace RockSat_C_UI
 
         }
 
+        // Quick start
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            welcome_page welcome = new welcome_page();
+            welcome.Show();
+            Hide();
         }
 
+        // Signup button
         private void button3_Click(object sender, EventArgs e)
         {
-
+            signup_form signup = new signup_form();
+            signup.Show();
         }
-
+        
+        // Login button
         private void button2_Click(object sender, EventArgs e)
         {
             login_form login = new login_form();

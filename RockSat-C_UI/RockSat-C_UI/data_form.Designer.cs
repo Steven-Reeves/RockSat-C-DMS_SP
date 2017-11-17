@@ -44,6 +44,7 @@
             this.back_btn.TabIndex = 1;
             this.back_btn.Text = "Back";
             this.back_btn.UseVisualStyleBackColor = true;
+            this.back_btn.Click += new System.EventHandler(this.back_btn_Click);
             // 
             // csv_txtBox
             // 
@@ -78,6 +79,7 @@
             this.enter_btn.TabIndex = 6;
             this.enter_btn.Text = "Enter";
             this.enter_btn.UseVisualStyleBackColor = true;
+            this.enter_btn.Click += new System.EventHandler(this.enter_btn_Click);
             // 
             // listBox1
             // 

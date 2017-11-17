@@ -16,5 +16,10 @@ namespace RockSat_C_UI
         {
             InitializeComponent();
         }
+
+        private void back_btn_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

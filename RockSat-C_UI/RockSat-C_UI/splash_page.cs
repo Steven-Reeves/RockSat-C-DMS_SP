@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// TODO: Make a static instance of this for all forms to use.
+
 namespace RockSat_C_UI
 {
     public partial class splash_page : Form

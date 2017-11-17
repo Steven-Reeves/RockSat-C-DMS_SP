@@ -19,7 +19,19 @@ namespace RockSat_C_UI
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+            // Import .csv file
+             
+        }
 
+        private void enter_btn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void back_btn_Click(object sender, EventArgs e)
+        {
+            // Go Back
+            Close();
         }
     }
 }

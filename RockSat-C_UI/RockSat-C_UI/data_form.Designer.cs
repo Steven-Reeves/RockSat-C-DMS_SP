@@ -52,6 +52,7 @@
             this.csv_txtBox.Name = "csv_txtBox";
             this.csv_txtBox.Size = new System.Drawing.Size(278, 20);
             this.csv_txtBox.TabIndex = 2;
+            this.csv_txtBox.TextChanged += new System.EventHandler(this.csv_txtBox_TextChanged);
             // 
             // csv_label
             // 

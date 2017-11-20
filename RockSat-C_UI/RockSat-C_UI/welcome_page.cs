@@ -26,12 +26,14 @@ namespace RockSat_C_UI
         private void back_btn_Click(object sender, EventArgs e)
         {
             // Go back
+            this.DialogResult = DialogResult.OK;
         }
 
         // logout button
         private void button3_Click(object sender, EventArgs e)
         {
             // Go back
+            this.DialogResult = DialogResult.OK;
 
             // logout popup
             string logout_message = " You've been logged out!";

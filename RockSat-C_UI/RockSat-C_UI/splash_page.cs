@@ -28,8 +28,10 @@ namespace RockSat_C_UI
         private void button1_Click(object sender, EventArgs e)
         {
             welcome_page welcome = new welcome_page();
-            welcome.Show();
-            Hide();
+            //welcome.Show();
+            this.Hide();
+            welcome.ShowDialog();
+            this.Show();
         }
 
         // Signup button

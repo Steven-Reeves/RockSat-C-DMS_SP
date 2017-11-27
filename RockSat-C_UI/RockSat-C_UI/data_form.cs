@@ -41,7 +41,6 @@ namespace RockSat_C_UI
 
         private void csv_txtBox_TextChanged(object sender, EventArgs e)
         {
-            // Which .csv to load
 
         }
 

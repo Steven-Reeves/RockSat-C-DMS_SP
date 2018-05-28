@@ -45,5 +45,11 @@ namespace RockSat_C_UI
             data_form data = new data_form();
             data.Show();
         }
+
+        private void loadGraph_btn_Click(object sender, EventArgs e)
+        {
+            string load_message = "Loading implemented in v2";
+            MessageBox.Show(load_message, "Coming Soon", MessageBoxButtons.OK);
+        }
     }
 }

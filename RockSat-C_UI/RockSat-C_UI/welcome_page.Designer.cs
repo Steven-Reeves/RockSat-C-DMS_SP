@@ -74,6 +74,7 @@
             this.loadGraph_btn.TabIndex = 4;
             this.loadGraph_btn.Text = "Load Graph";
             this.loadGraph_btn.UseVisualStyleBackColor = true;
+            this.loadGraph_btn.Click += new System.EventHandler(this.loadGraph_btn_Click);
             // 
             // pictureBox1
             // 

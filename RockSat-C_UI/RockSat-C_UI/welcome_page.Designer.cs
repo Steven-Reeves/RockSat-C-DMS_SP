@@ -62,7 +62,7 @@
             this.newGraph_btn.Name = "newGraph_btn";
             this.newGraph_btn.Size = new System.Drawing.Size(291, 67);
             this.newGraph_btn.TabIndex = 3;
-            this.newGraph_btn.Text = "New Graph";
+            this.newGraph_btn.Text = "New Data Display";
             this.newGraph_btn.UseVisualStyleBackColor = true;
             this.newGraph_btn.Click += new System.EventHandler(this.newGraph_btn_Click);
             // 
@@ -72,7 +72,7 @@
             this.loadGraph_btn.Name = "loadGraph_btn";
             this.loadGraph_btn.Size = new System.Drawing.Size(291, 67);
             this.loadGraph_btn.TabIndex = 4;
-            this.loadGraph_btn.Text = "Load Graph";
+            this.loadGraph_btn.Text = "Load Data Display";
             this.loadGraph_btn.UseVisualStyleBackColor = true;
             this.loadGraph_btn.Click += new System.EventHandler(this.loadGraph_btn_Click);
             // 

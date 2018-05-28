@@ -36,7 +36,7 @@ namespace RockSat_C_UI
             this.DialogResult = DialogResult.OK;
 
             // logout popup
-            string logout_message = " You've been logged out!";
+            string logout_message = "You've been logged out!";
             MessageBox.Show(logout_message, "Logout", MessageBoxButtons.OK);
         }
 

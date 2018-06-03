@@ -24,7 +24,7 @@ namespace RockSat_C_UI
 
         private void enter_btn_Click(object sender, EventArgs e)
         {
-            string load_message = "Loading implemented in v2";
+            string load_message = "Login functionality implemented in v2";
             MessageBox.Show(load_message, "Coming Soon", MessageBoxButtons.OK);
         }
     }

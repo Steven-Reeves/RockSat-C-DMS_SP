@@ -1,0 +1,240 @@
+Initializing SD card...Card failed, or not present
+Temperature = 24 *C
+Pressure = 59 Pa
+Approx altitude = 142 m
+2129664
+Temperature = 22 *C
+Pressure = 60 Pa
+Approx altitude = 53 m
+4140012
+Temperature = 26 *C
+Pressure = 88 Pa
+Approx altitude = 129 m
+6147364
+Temperature = 21 *C
+Pressure = 50 Pa
+Approx altitude = 28 m
+8155668
+Temperature = 26 *C
+Pressure = 52 Pa
+Approx altitude = 61 m
+10162972
+Temperature = 22 *C
+Pressure = 57 Pa
+Approx altitude = 31 m
+12171316
+Temperature = 27 *C
+Pressure = 62 Pa
+Approx altitude = 129 m
+14179704
+Temperature = 21 *C
+Pressure = 79 Pa
+Approx altitude = 6 m
+16189000
+Temperature = 24 *C
+Pressure = 63 Pa
+Approx altitude = 7 m
+18196304
+Temperature = 20 *C
+Pressure = 66 Pa
+Approx altitude = 144 m
+20203696
+Temperature = 27 *C
+Pressure = 76 Pa
+Approx altitude = 4 m
+22212992
+Temperature = 21 *C
+Pressure = 60 Pa
+Approx altitude = 56 m
+24220340
+Temperature = 21 *C
+Pressure = 79 Pa
+Approx altitude = 146 m
+26228732
+Temperature = 23 *C
+Pressure = 57 Pa
+Approx altitude = 68 m
+28238068
+Temperature = 21 *C
+Pressure = 66 Pa
+Approx altitude = 139 m
+30246456
+Temperature = 22 *C
+Pressure = 78 Pa
+Approx altitude = 9 m
+32255752
+Temperature = 26 *C
+Pressure = 87 Pa
+Approx altitude = 116 m
+34263140
+Temperature = 22 *C
+Pressure = 78 Pa
+Approx altitude = 128 m
+36272528
+Temperature = 21 *C
+Pressure = 60 Pa
+Approx altitude = 125 m
+38281912
+Temperature = 28 *C
+Pressure = 60 Pa
+Approx altitude = 145 m
+40291296
+Temperature = 27 *C
+Pressure = 76 Pa
+Approx altitude = 31 m
+42300640
+Temperature = 28 *C
+Pressure = 51 Pa
+Approx altitude = 13 m
+44308980
+Temperature = 20 *C
+Pressure = 58 Pa
+Approx altitude = 115 m
+46317376
+Temperature = 27 *C
+Pressure = 68 Pa
+Approx altitude = 35 m
+48326720
+Temperature = 27 *C
+Pressure = 63 Pa
+Approx altitude = 75 m
+50335064
+Temperature = 24 *C
+Pressure = 73 Pa
+Approx altitude = 79 m
+52343412
+Temperature = 25 *C
+Pressure = 79 Pa
+Approx altitude = 50 m
+54351752
+Temperature = 27 *C
+Pressure = 79 Pa
+Approx altitude = 111 m
+56360140
+Temperature = 22 *C
+Pressure = 85 Pa
+Approx altitude = 46 m
+58369480
+Temperature = 28 *C
+Pressure = 61 Pa
+Approx altitude = 22 m
+60377824
+Temperature = 23 *C
+Pressure = 53 Pa
+Approx altitude = 13 m
+62386164
+Initializing SD card...Card failed, or not present
+Temperature = 24 *C
+Pressure = 59 Pa
+Approx altitude = 142 m
+2129664
+Temperature = 22 *C
+Pressure = 60 Pa
+Approx altitude = 53 m
+4140012
+Temperature = 26 *C
+Pressure = 88 Pa
+Approx altitude = 129 m
+6147364
+Temperature = 21 *C
+Pressure = 50 Pa
+Approx altitude = 28 m
+8155668
+Temperature = 26 *C
+Pressure = 52 Pa
+Approx altitude = 61 m
+10162972
+Temperature = 22 *C
+Pressure = 57 Pa
+Approx altitude = 31 m
+12171316
+Temperature = 27 *C
+Pressure = 62 Pa
+Approx altitude = 129 m
+14179704
+Temperature = 21 *C
+Pressure = 79 Pa
+Approx altitude = 6 m
+16189000
+Temperature = 24 *C
+Pressure = 63 Pa
+Approx altitude = 7 m
+18196304
+Temperature = 20 *C
+Pressure = 66 Pa
+Approx altitude = 144 m
+20203696
+Temperature = 27 *C
+Pressure = 76 Pa
+Approx altitude = 4 m
+22212992
+Temperature = 21 *C
+Pressure = 60 Pa
+Approx altitude = 56 m
+24220340
+Temperature = 21 *C
+Pressure = 79 Pa
+Approx altitude = 146 m
+26228732
+Temperature = 23 *C
+Pressure = 57 Pa
+Approx altitude = 68 m
+28238068
+Temperature = 21 *C
+Pressure = 66 Pa
+Approx altitude = 139 m
+30246456
+Temperature = 22 *C
+Pressure = 78 Pa
+Approx altitude = 9 m
+32255752
+Temperature = 26 *C
+Pressure = 87 Pa
+Approx altitude = 116 m
+34263140
+Temperature = 22 *C
+Pressure = 78 Pa
+Approx altitude = 128 m
+36272528
+Temperature = 21 *C
+Pressure = 60 Pa
+Approx altitude = 125 m
+38281912
+Temperature = 28 *C
+Pressure = 60 Pa
+Approx altitude = 145 m
+40291296
+Temperature = 27 *C
+Pressure = 76 Pa
+Approx altitude = 31 m
+42300640
+Temperature = 28 *C
+Pressure = 51 Pa
+Approx altitude = 13 m
+44308980
+Initializing SD card...Card failed, or not present
+Temperature = 24 *C
+Pressure = 59 Pa
+Approx altitude = 142 m
+2129664
+Temperature = 22 *C
+Pressure = 60 Pa
+Approx altitude = 53 m
+4140012
+Temperature = 26 *C
+Pressure = 88 Pa
+Approx altitude = 129 m
+6147364
+Temperature = 21 *C
+Pressure = 50 Pa
+Approx altitude = 28 m
+8155668
+Temperature = 26 *C
+Pressure = 52 Pa
+Approx altitude = 61 m
+10162972
+Temperature = 22 *C
+Pressure = 57 Pa
+Approx altitude = 31 m
+12171316
+Temperature = 27 *C

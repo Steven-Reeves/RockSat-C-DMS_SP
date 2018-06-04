@@ -1,0 +1,2486 @@
+Initializing SD card...Card failed, or not present
+Temperature = 24 *C
+Pressure = 59 Pa
+Approx altitude = 142 m
+2129664
+Temperature = 22 *C
+Pressure = 60 Pa
+Approx altitude = 53 m
+4140012
+Temperature = 26 *C
+Pressure = 88 Pa
+Approx altitude = 129 m
+6147364
+Temperature = 21 *C
+Pressure = 50 Pa
+Approx altitude = 28 m
+8155668
+Temperature = 26 *C
+Pressure = 52 Pa
+Approx altitude = 61 m
+10162972
+Temperature = 22 *C
+Pressure = 57 Pa
+Approx altitude = 31 m
+12171316
+Temperature = 27 *C
+Pressure = 62 Pa
+Approx altitude = 129 m
+14179704
+Temperature = 21 *C
+Pressure = 79 Pa
+Approx altitude = 6 m
+16189000
+Temperature = 24 *C
+Pressure = 63 Pa
+Approx altitude = 7 m
+18196304
+Temperature = 20 *C
+Pressure = 66 Pa
+Approx altitude = 144 m
+20203696
+Temperature = 27 *C
+Pressure = 76 Pa
+Approx altitude = 4 m
+22212992
+Temperature = 21 *C
+Pressure = 60 Pa
+Approx altitude = 56 m
+24220340
+Temperature = 21 *C
+Pressure = 79 Pa
+Approx altitude = 146 m
+26228732
+Temperature = 23 *C
+Pressure = 57 Pa
+Approx altitude = 68 m
+28238068
+Temperature = 21 *C
+Pressure = 66 Pa
+Approx altitude = 139 m
+30246456
+Temperature = 22 *C
+Pressure = 78 Pa
+Approx altitude = 9 m
+32255752
+Temperature = 26 *C
+Pressure = 87 Pa
+Approx altitude = 116 m
+34263140
+Temperature = 22 *C
+Pressure = 78 Pa
+Approx altitude = 128 m
+36272528
+Temperature = 21 *C
+Pressure = 60 Pa
+Approx altitude = 125 m
+38281912
+Temperature = 28 *C
+Pressure = 60 Pa
+Approx altitude = 145 m
+40291296
+Temperature = 27 *C
+Pressure = 76 Pa
+Approx altitude = 31 m
+42300640
+Temperature = 28 *C
+Pressure = 51 Pa
+Approx altitude = 13 m
+44308980
+Temperature = 20 *C
+Pressure = 58 Pa
+Approx altitude = 115 m
+46317376
+Temperature = 27 *C
+Pressure = 68 Pa
+Approx altitude = 35 m
+48326720
+Temperature = 27 *C
+Pressure = 63 Pa
+Approx altitude = 75 m
+50335064
+Temperature = 24 *C
+Pressure = 73 Pa
+Approx altitude = 79 m
+52343412
+Temperature = 25 *C
+Pressure = 79 Pa
+Approx altitude = 50 m
+54351752
+Temperature = 27 *C
+Pressure = 79 Pa
+Approx altitude = 111 m
+56360140
+Temperature = 22 *C
+Pressure = 85 Pa
+Approx altitude = 46 m
+58369480
+Temperature = 28 *C
+Pressure = 61 Pa
+Approx altitude = 22 m
+60377824
+Temperature = 23 *C
+Pressure = 53 Pa
+Approx altitude = 13 m
+62386164
+Temperature = 27 *C
+Pressure = 82 Pa
+Approx altitude = 46 m
+64394512
+Temperature = 27 *C
+Pressure = 67 Pa
+Approx altitude = 62 m
+66402856
+Temperature = 20 *C
+Pressure = 71 Pa
+Approx altitude = 73 m
+68411200
+Temperature = 22 *C
+Pressure = 78 Pa
+Approx altitude = 148 m
+70419588
+Temperature = 28 *C
+Pressure = 67 Pa
+Approx altitude = 139 m
+72428972
+Temperature = 23 *C
+Pressure = 74 Pa
+Approx altitude = 82 m
+74438312
+Temperature = 22 *C
+Pressure = 75 Pa
+Approx altitude = 56 m
+76446652
+Temperature = 23 *C
+Pressure = 68 Pa
+Approx altitude = 15 m
+78454996
+Temperature = 27 *C
+Pressure = 58 Pa
+Approx altitude = 64 m
+80463344
+Temperature = 20 *C
+Pressure = 87 Pa
+Approx altitude = 27 m
+82471684
+Temperature = 21 *C
+Pressure = 85 Pa
+Approx altitude = 94 m
+84480028
+Temperature = 25 *C
+Pressure = 60 Pa
+Approx altitude = 144 m
+86488420
+Temperature = 26 *C
+Pressure = 72 Pa
+Approx altitude = 54 m
+88497760
+Temperature = 24 *C
+Pressure = 62 Pa
+Approx altitude = 27 m
+90506104
+Temperature = 20 *C
+Pressure = 65 Pa
+Approx altitude = 53 m
+92514444
+Temperature = 26 *C
+Pressure = 71 Pa
+Approx altitude = 15 m
+94522792
+Temperature = 26 *C
+Pressure = 68 Pa
+Approx altitude = 63 m
+96531136
+Temperature = 21 *C
+Pressure = 80 Pa
+Approx altitude = 88 m
+98539480
+Temperature = 24 *C
+Pressure = 65 Pa
+Approx altitude = 42 m
+100547824
+Temperature = 28 *C
+Pressure = 68 Pa
+Approx altitude = 132 m
+102557256
+Temperature = 23 *C
+Pressure = 64 Pa
+Approx altitude = 5 m
+104567588
+Temperature = 27 *C
+Pressure = 50 Pa
+Approx altitude = 94 m
+106575980
+Temperature = 26 *C
+Pressure = 53 Pa
+Approx altitude = 147 m
+108585420
+Temperature = 22 *C
+Pressure = 60 Pa
+Approx altitude = 50 m
+110595800
+Temperature = 21 *C
+Pressure = 70 Pa
+Approx altitude = 43 m
+112605196
+Temperature = 27 *C
+Pressure = 64 Pa
+Approx altitude = 50 m
+114614580
+Temperature = 26 *C
+Pressure = 53 Pa
+Approx altitude = 98 m
+116623964
+Temperature = 21 *C
+Pressure = 80 Pa
+Approx altitude = 26 m
+118633360
+Temperature = 20 *C
+Pressure = 73 Pa
+Approx altitude = 128 m
+120642788
+Temperature = 24 *C
+Pressure = 67 Pa
+Approx altitude = 101 m
+122653224
+Temperature = 20 *C
+Pressure = 57 Pa
+Approx altitude = 133 m
+124663648
+Temperature = 21 *C
+Pressure = 55 Pa
+Approx altitude = 94 m
+126674036
+Temperature = 27 *C
+Pressure = 74 Pa
+Approx altitude = 129 m
+128683472
+Temperature = 21 *C
+Pressure = 85 Pa
+Approx altitude = 28 m
+130693864
+Temperature = 22 *C
+Pressure = 52 Pa
+Approx altitude = 48 m
+132703252
+Temperature = 26 *C
+Pressure = 82 Pa
+Approx altitude = 30 m
+134712644
+Temperature = 27 *C
+Pressure = 68 Pa
+Approx altitude = 37 m
+136722028
+Temperature = 26 *C
+Pressure = 65 Pa
+Approx altitude = 116 m
+138731456
+Temperature = 25 *C
+Pressure = 79 Pa
+Approx altitude = 42 m
+140741836
+Temperature = 23 *C
+Pressure = 77 Pa
+Approx altitude = 95 m
+142751220
+Temperature = 28 *C
+Pressure = 72 Pa
+Approx altitude = 108 m
+144760648
+Temperature = 20 *C
+Pressure = 67 Pa
+Approx altitude = 97 m
+146771028
+Temperature = 20 *C
+Pressure = 65 Pa
+Approx altitude = 74 m
+148780424
+Temperature = 25 *C
+Pressure = 66 Pa
+Approx altitude = 68 m
+150789808
+Temperature = 21 *C
+Pressure = 84 Pa
+Approx altitude = 111 m
+152799244
+Temperature = 23 *C
+Pressure = 71 Pa
+Approx altitude = 129 m
+154809660
+Temperature = 28 *C
+Pressure = 64 Pa
+Approx altitude = 102 m
+156820084
+Temperature = 28 *C
+Pressure = 79 Pa
+Approx altitude = 43 m
+158830464
+Temperature = 20 *C
+Pressure = 83 Pa
+Approx altitude = 72 m
+160839848
+Temperature = 25 *C
+Pressure = 65 Pa
+Approx altitude = 24 m
+162849232
+Temperature = 23 *C
+Pressure = 53 Pa
+Approx altitude = 149 m
+164858660
+Temperature = 25 *C
+Pressure = 78 Pa
+Approx altitude = 101 m
+166869084
+Temperature = 26 *C
+Pressure = 54 Pa
+Approx altitude = 107 m
+168879504
+Temperature = 26 *C
+Pressure = 87 Pa
+Approx altitude = 44 m
+170889884
+Temperature = 20 *C
+Pressure = 53 Pa
+Approx altitude = 28 m
+172899276
+Temperature = 23 *C
+Pressure = 64 Pa
+Approx altitude = 138 m
+174908704
+Temperature = 24 *C
+Pressure = 59 Pa
+Approx altitude = 135 m
+176919124
+Temperature = 27 *C
+Pressure = 73 Pa
+Approx altitude = 129 m
+178929548
+Temperature = 21 *C
+Pressure = 67 Pa
+Approx altitude = 16 m
+180939924
+Temperature = 23 *C
+Pressure = 55 Pa
+Approx altitude = 21 m
+182949312
+Temperature = 25 *C
+Pressure = 54 Pa
+Approx altitude = 43 m
+184958696
+Temperature = 23 *C
+Pressure = 74 Pa
+Approx altitude = 13 m
+186968076
+Temperature = 26 *C
+Pressure = 66 Pa
+Approx altitude = 109 m
+188977508
+Temperature = 24 *C
+Pressure = 87 Pa
+Approx altitude = 71 m
+190987888
+Temperature = 25 *C
+Pressure = 78 Pa
+Approx altitude = 68 m
+192997272
+Temperature = 25 *C
+Pressure = 69 Pa
+Approx altitude = 139 m
+195006700
+Temperature = 24 *C
+Pressure = 83 Pa
+Approx altitude = 113 m
+197017124
+Temperature = 25 *C
+Pressure = 57 Pa
+Approx altitude = 11 m
+199027504
+Temperature = 22 *C
+Pressure = 75 Pa
+Approx altitude = 109 m
+201036932
+Temperature = 28 *C
+Pressure = 74 Pa
+Approx altitude = 42 m
+203047312
+Temperature = 28 *C
+Pressure = 50 Pa
+Approx altitude = 27 m
+205056696
+Temperature = 22 *C
+Pressure = 55 Pa
+Approx altitude = 30 m
+207066080
+Temperature = 22 *C
+Pressure = 85 Pa
+Approx altitude = 60 m
+209075480
+Temperature = 22 *C
+Pressure = 66 Pa
+Approx altitude = 92 m
+211084872
+Temperature = 23 *C
+Pressure = 87 Pa
+Approx altitude = 9 m
+213094216
+Temperature = 25 *C
+Pressure = 64 Pa
+Approx altitude = 77 m
+215102604
+Temperature = 20 *C
+Pressure = 63 Pa
+Approx altitude = 92 m
+217111984
+Temperature = 24 *C
+Pressure = 52 Pa
+Approx altitude = 2 m
+219121328
+Temperature = 25 *C
+Pressure = 81 Pa
+Approx altitude = 143 m
+221129768
+Temperature = 26 *C
+Pressure = 83 Pa
+Approx altitude = 149 m
+223140196
+Temperature = 21 *C
+Pressure = 88 Pa
+Approx altitude = 73 m
+225150576
+Temperature = 21 *C
+Pressure = 50 Pa
+Approx altitude = 25 m
+227159960
+Temperature = 23 *C
+Pressure = 50 Pa
+Approx altitude = 91 m
+229169344
+Temperature = 20 *C
+Pressure = 76 Pa
+Approx altitude = 76 m
+231178728
+Temperature = 22 *C
+Pressure = 50 Pa
+Approx altitude = 61 m
+233188116
+Temperature = 21 *C
+Pressure = 67 Pa
+Approx altitude = 44 m
+235197496
+Temperature = 22 *C
+Pressure = 83 Pa
+Approx altitude = 29 m
+237206876
+Temperature = 20 *C
+Pressure = 68 Pa
+Approx altitude = 46 m
+239216264
+Temperature = 20 *C
+Pressure = 59 Pa
+Approx altitude = 56 m
+241225648
+Temperature = 25 *C
+Pressure = 72 Pa
+Approx altitude = 104 m
+243235076
+Temperature = 21 *C
+Pressure = 69 Pa
+Approx altitude = 78 m
+245245456
+Temperature = 23 *C
+Pressure = 79 Pa
+Approx altitude = 72 m
+247254840
+Temperature = 20 *C
+Pressure = 83 Pa
+Approx altitude = 88 m
+249264224
+Temperature = 20 *C
+Pressure = 75 Pa
+Approx altitude = 75 m
+251273608
+Temperature = 27 *C
+Pressure = 56 Pa
+Approx altitude = 94 m
+253282992
+Temperature = 25 *C
+Pressure = 62 Pa
+Approx altitude = 84 m
+255292376
+Temperature = 24 *C
+Pressure = 67 Pa
+Approx altitude = 124 m
+257301804
+Temperature = 23 *C
+Pressure = 81 Pa
+Approx altitude = 148 m
+259312228
+Temperature = 24 *C
+Pressure = 70 Pa
+Approx altitude = 77 m
+261322608
+Temperature = 23 *C
+Pressure = 68 Pa
+Approx altitude = 1 m
+263331948
+Temperature = 22 *C
+Pressure = 80 Pa
+Approx altitude = 128 m
+265340376
+Temperature = 25 *C
+Pressure = 89 Pa
+Approx altitude = 42 m
+267350760
+Temperature = 27 *C
+Pressure = 79 Pa
+Approx altitude = 71 m
+269360144
+Temperature = 28 *C
+Pressure = 61 Pa
+Approx altitude = 43 m
+271369528
+Temperature = 21 *C
+Pressure = 73 Pa
+Approx altitude = 22 m
+273378912
+Temperature = 26 *C
+Pressure = 53 Pa
+Approx altitude = 73 m
+275388292
+Temperature = 27 *C
+Pressure = 79 Pa
+Approx altitude = 54 m
+277397680
+Temperature = 23 *C
+Pressure = 69 Pa
+Approx altitude = 16 m
+279407060
+Temperature = 27 *C
+Pressure = 66 Pa
+Approx altitude = 48 m
+281416444
+Temperature = 23 *C
+Pressure = 88 Pa
+Approx altitude = 107 m
+283425876
+Temperature = 26 *C
+Pressure = 74 Pa
+Approx altitude = 47 m
+285436268
+Temperature = 28 *C
+Pressure = 81 Pa
+Approx altitude = 113 m
+287445700
+Temperature = 25 *C
+Pressure = 81 Pa
+Approx altitude = 8 m
+289456032
+Temperature = 28 *C
+Pressure = 50 Pa
+Approx altitude = 37 m
+291464420
+Temperature = 28 *C
+Pressure = 59 Pa
+Approx altitude = 4 m
+293473756
+Temperature = 25 *C
+Pressure = 75 Pa
+Approx altitude = 87 m
+295482148
+Temperature = 23 *C
+Pressure = 78 Pa
+Approx altitude = 138 m
+297491576
+Temperature = 24 *C
+Pressure = 80 Pa
+Approx altitude = 51 m
+299501956
+Temperature = 20 *C
+Pressure = 67 Pa
+Approx altitude = 33 m
+301511340
+Temperature = 23 *C
+Pressure = 76 Pa
+Approx altitude = 15 m
+303520724
+Temperature = 28 *C
+Pressure = 83 Pa
+Approx altitude = 124 m
+305530152
+Temperature = 22 *C
+Pressure = 72 Pa
+Approx altitude = 31 m
+307540536
+Temperature = 25 *C
+Pressure = 77 Pa
+Approx altitude = 58 m
+309549916
+Temperature = 25 *C
+Pressure = 50 Pa
+Approx altitude = 116 m
+311559348
+Temperature = 20 *C
+Pressure = 61 Pa
+Approx altitude = 1 m
+313569684
+Temperature = 28 *C
+Pressure = 75 Pa
+Approx altitude = 108 m
+315578112
+Temperature = 26 *C
+Pressure = 78 Pa
+Approx altitude = 146 m
+317588536
+Temperature = 26 *C
+Pressure = 64 Pa
+Approx altitude = 33 m
+319598916
+Temperature = 28 *C
+Pressure = 70 Pa
+Approx altitude = 107 m
+321608344
+Temperature = 25 *C
+Pressure = 64 Pa
+Approx altitude = 128 m
+323618768
+Temperature = 21 *C
+Pressure = 63 Pa
+Approx altitude = 65 m
+325629148
+Temperature = 27 *C
+Pressure = 86 Pa
+Approx altitude = 74 m
+327638532
+Temperature = 22 *C
+Pressure = 68 Pa
+Approx altitude = 38 m
+329647916
+Temperature = 23 *C
+Pressure = 86 Pa
+Approx altitude = 88 m
+331657300
+Temperature = 28 *C
+Pressure = 82 Pa
+Approx altitude = 101 m
+333666728
+Temperature = 25 *C
+Pressure = 71 Pa
+Approx altitude = 47 m
+335677108
+Temperature = 25 *C
+Pressure = 61 Pa
+Approx altitude = 133 m
+337686540
+Temperature = 24 *C
+Pressure = 81 Pa
+Approx altitude = 119 m
+339696980
+Temperature = 26 *C
+Pressure = 50 Pa
+Approx altitude = 66 m
+341707368
+Temperature = 25 *C
+Pressure = 63 Pa
+Approx altitude = 97 m
+343716752
+Temperature = 21 *C
+Pressure = 81 Pa
+Approx altitude = 141 m
+345726180
+Temperature = 24 *C
+Pressure = 63 Pa
+Approx altitude = 86 m
+347736560
+Temperature = 27 *C
+Pressure = 85 Pa
+Approx altitude = 63 m
+349745956
+Temperature = 21 *C
+Pressure = 86 Pa
+Approx altitude = 85 m
+351755336
+Temperature = 24 *C
+Pressure = 54 Pa
+Approx altitude = 119 m
+353764772
+Temperature = 27 *C
+Pressure = 71 Pa
+Approx altitude = 114 m
+355775192
+Temperature = 26 *C
+Pressure = 78 Pa
+Approx altitude = 112 m
+357785624
+Temperature = 26 *C
+Pressure = 65 Pa
+Approx altitude = 27 m
+359796012
+Temperature = 24 *C
+Pressure = 75 Pa
+Approx altitude = 45 m
+361805388
+Temperature = 24 *C
+Pressure = 50 Pa
+Approx altitude = 26 m
+363814776
+Temperature = 21 *C
+Pressure = 75 Pa
+Approx altitude = 91 m
+365824160
+Temperature = 23 *C
+Pressure = 58 Pa
+Approx altitude = 31 m
+367833548
+Temperature = 21 *C
+Pressure = 57 Pa
+Approx altitude = 88 m
+369842928
+Temperature = 22 *C
+Pressure = 56 Pa
+Approx altitude = 109 m
+371852356
+Temperature = 24 *C
+Pressure = 77 Pa
+Approx altitude = 66 m
+373862736
+Temperature = 21 *C
+Pressure = 81 Pa
+Approx altitude = 95 m
+375872120
+Temperature = 22 *C
+Pressure = 61 Pa
+Approx altitude = 45 m
+377881504
+Temperature = 21 *C
+Pressure = 88 Pa
+Approx altitude = 92 m
+379890888
+Temperature = 24 *C
+Pressure = 57 Pa
+Approx altitude = 113 m
+381900316
+Temperature = 28 *C
+Pressure = 64 Pa
+Approx altitude = 55 m
+383910696
+Temperature = 26 *C
+Pressure = 78 Pa
+Approx altitude = 26 m
+385920076
+Temperature = 20 *C
+Pressure = 57 Pa
+Approx altitude = 142 m
+387929512
+Temperature = 21 *C
+Pressure = 70 Pa
+Approx altitude = 19 m
+389939884
+Temperature = 23 *C
+Pressure = 53 Pa
+Approx altitude = 77 m
+391949272
+Temperature = 20 *C
+Pressure = 61 Pa
+Approx altitude = 104 m
+393958716
+Temperature = 23 *C
+Pressure = 86 Pa
+Approx altitude = 116 m
+395969152
+Temperature = 26 *C
+Pressure = 55 Pa
+Approx altitude = 82 m
+397979532
+Temperature = 23 *C
+Pressure = 82 Pa
+Approx altitude = 75 m
+399988928
+Temperature = 20 *C
+Pressure = 87 Pa
+Approx altitude = 127 m
+401998356
+Temperature = 23 *C
+Pressure = 85 Pa
+Approx altitude = 119 m
+404008780
+Temperature = 21 *C
+Pressure = 59 Pa
+Approx altitude = 46 m
+406019160
+Temperature = 24 *C
+Pressure = 71 Pa
+Approx altitude = 18 m
+408028556
+Temperature = 25 *C
+Pressure = 88 Pa
+Approx altitude = 57 m
+410037940
+Temperature = 23 *C
+Pressure = 59 Pa
+Approx altitude = 142 m
+412047376
+Temperature = 27 *C
+Pressure = 56 Pa
+Approx altitude = 29 m
+414057764
+Temperature = 28 *C
+Pressure = 68 Pa
+Approx altitude = 23 m
+416067160
+Temperature = 27 *C
+Pressure = 89 Pa
+Approx altitude = 80 m
+418076556
+Temperature = 22 *C
+Pressure = 78 Pa
+Approx altitude = 133 m
+420085984
+Temperature = 20 *C
+Pressure = 85 Pa
+Approx altitude = 38 m
+422096364
+Temperature = 22 *C
+Pressure = 54 Pa
+Approx altitude = 138 m
+424105792
+Temperature = 22 *C
+Pressure = 64 Pa
+Approx altitude = 90 m
+426116172
+Temperature = 21 *C
+Pressure = 65 Pa
+Approx altitude = 149 m
+428125616
+Temperature = 26 *C
+Pressure = 71 Pa
+Approx altitude = 46 m
+430135992
+Temperature = 28 *C
+Pressure = 81 Pa
+Approx altitude = 62 m
+432145376
+Temperature = 21 *C
+Pressure = 88 Pa
+Approx altitude = 45 m
+434154776
+Temperature = 28 *C
+Pressure = 73 Pa
+Approx altitude = 68 m
+436164172
+Temperature = 21 *C
+Pressure = 81 Pa
+Approx altitude = 84 m
+438173552
+Temperature = 22 *C
+Pressure = 55 Pa
+Approx altitude = 65 m
+440182936
+Temperature = 24 *C
+Pressure = 76 Pa
+Approx altitude = 99 m
+442192324
+Temperature = 21 *C
+Pressure = 82 Pa
+Approx altitude = 120 m
+444201752
+Temperature = 27 *C
+Pressure = 64 Pa
+Approx altitude = 21 m
+446212132
+Temperature = 27 *C
+Pressure = 70 Pa
+Approx altitude = 8 m
+448221472
+Temperature = 24 *C
+Pressure = 77 Pa
+Approx altitude = 28 m
+450229872
+Temperature = 24 *C
+Pressure = 87 Pa
+Approx altitude = 86 m
+452239256
+Temperature = 22 *C
+Pressure = 52 Pa
+Approx altitude = 69 m
+454248640
+Temperature = 26 *C
+Pressure = 78 Pa
+Approx altitude = 114 m
+456258068
+Temperature = 25 *C
+Pressure = 51 Pa
+Approx altitude = 17 m
+458268448
+Temperature = 27 *C
+Pressure = 71 Pa
+Approx altitude = 29 m
+460277832
+Temperature = 28 *C
+Pressure = 85 Pa
+Approx altitude = 143 m
+462287276
+Temperature = 23 *C
+Pressure = 85 Pa
+Approx altitude = 26 m
+464297648
+Temperature = 23 *C
+Pressure = 63 Pa
+Approx altitude = 49 m
+466307036
+Temperature = 22 *C
+Pressure = 54 Pa
+Approx altitude = 52 m
+468316436
+Temperature = 25 *C
+Pressure = 82 Pa
+Approx altitude = 103 m
+470325864
+Temperature = 27 *C
+Pressure = 73 Pa
+Approx altitude = 72 m
+472336256
+Temperature = 28 *C
+Pressure = 89 Pa
+Approx altitude = 122 m
+474345696
+Temperature = 28 *C
+Pressure = 51 Pa
+Approx altitude = 27 m
+476356076
+Temperature = 26 *C
+Pressure = 56 Pa
+Approx altitude = 20 m
+478365460
+Temperature = 28 *C
+Pressure = 60 Pa
+Approx altitude = 12 m
+480374844
+Temperature = 28 *C
+Pressure = 55 Pa
+Approx altitude = 111 m
+482384272
+Temperature = 22 *C
+Pressure = 81 Pa
+Approx altitude = 68 m
+484394652
+Temperature = 22 *C
+Pressure = 69 Pa
+Approx altitude = 22 m
+486404036
+Temperature = 22 *C
+Pressure = 60 Pa
+Approx altitude = 75 m
+488413420
+Temperature = 28 *C
+Pressure = 67 Pa
+Approx altitude = 97 m
+490422804
+Temperature = 24 *C
+Pressure = 67 Pa
+Approx altitude = 23 m
+492432188
+Temperature = 25 *C
+Pressure = 66 Pa
+Approx altitude = 15 m
+494441580
+Temperature = 26 *C
+Pressure = 84 Pa
+Approx altitude = 44 m
+496450968
+Temperature = 21 *C
+Pressure = 76 Pa
+Approx altitude = 126 m
+498460396
+Temperature = 23 *C
+Pressure = 52 Pa
+Approx altitude = 33 m
+500470772
+Temperature = 28 *C
+Pressure = 54 Pa
+Approx altitude = 109 m
+502480204
+Temperature = 20 *C
+Pressure = 57 Pa
+Approx altitude = 144 m
+504490628
+Temperature = 25 *C
+Pressure = 67 Pa
+Approx altitude = 17 m
+506501008
+Temperature = 22 *C
+Pressure = 71 Pa
+Approx altitude = 27 m
+508510392
+Temperature = 22 *C
+Pressure = 62 Pa
+Approx altitude = 133 m
+510519824
+Temperature = 22 *C
+Pressure = 89 Pa
+Approx altitude = 95 m
+512530200
+Temperature = 20 *C
+Pressure = 72 Pa
+Approx altitude = 33 m
+514539584
+Temperature = 24 *C
+Pressure = 80 Pa
+Approx altitude = 10 m
+516548968
+Temperature = 22 *C
+Pressure = 86 Pa
+Approx altitude = 21 m
+518558352
+Temperature = 28 *C
+Pressure = 82 Pa
+Approx altitude = 17 m
+520567736
+Temperature = 28 *C
+Pressure = 80 Pa
+Approx altitude = 116 m
+522577164
+Temperature = 26 *C
+Pressure = 64 Pa
+Approx altitude = 134 m
+524587588
+Temperature = 26 *C
+Pressure = 80 Pa
+Approx altitude = 23 m
+526597968
+Temperature = 28 *C
+Pressure = 71 Pa
+Approx altitude = 14 m
+528607352
+Temperature = 25 *C
+Pressure = 55 Pa
+Approx altitude = 123 m
+530616780
+Temperature = 26 *C
+Pressure = 80 Pa
+Approx altitude = 37 m
+532627160
+Temperature = 23 *C
+Pressure = 63 Pa
+Approx altitude = 13 m
+534636540
+Temperature = 22 *C
+Pressure = 66 Pa
+Approx altitude = 65 m
+536645928
+Temperature = 20 *C
+Pressure = 85 Pa
+Approx altitude = 126 m
+538655356
+Temperature = 26 *C
+Pressure = 59 Pa
+Approx altitude = 8 m
+540665692
+Temperature = 27 *C
+Pressure = 73 Pa
+Approx altitude = 25 m
+542674080
+Temperature = 26 *C
+Pressure = 60 Pa
+Approx altitude = 45 m
+544683468
+Temperature = 23 *C
+Pressure = 54 Pa
+Approx altitude = 140 m
+546692892
+Temperature = 26 *C
+Pressure = 88 Pa
+Approx altitude = 97 m
+548703268
+Temperature = 24 *C
+Pressure = 86 Pa
+Approx altitude = 40 m
+550712656
+Temperature = 28 *C
+Pressure = 70 Pa
+Approx altitude = 56 m
+552722040
+Temperature = 23 *C
+Pressure = 71 Pa
+Approx altitude = 54 m
+554731424
+Temperature = 21 *C
+Pressure = 77 Pa
+Approx altitude = 115 m
+556740852
+Temperature = 24 *C
+Pressure = 58 Pa
+Approx altitude = 1 m
+558751188
+Temperature = 22 *C
+Pressure = 85 Pa
+Approx altitude = 149 m
+560759620
+Temperature = 20 *C
+Pressure = 59 Pa
+Approx altitude = 8 m
+562769956
+Temperature = 20 *C
+Pressure = 81 Pa
+Approx altitude = 32 m
+564778344
+Temperature = 23 *C
+Pressure = 89 Pa
+Approx altitude = 68 m
+566787728
+Temperature = 27 *C
+Pressure = 50 Pa
+Approx altitude = 102 m
+568797156
+Temperature = 23 *C
+Pressure = 68 Pa
+Approx altitude = 76 m
+570807536
+Temperature = 21 *C
+Pressure = 78 Pa
+Approx altitude = 41 m
+572816920
+Temperature = 22 *C
+Pressure = 70 Pa
+Approx altitude = 136 m
+574826348
+Temperature = 26 *C
+Pressure = 77 Pa
+Approx altitude = 12 m
+576836728
+Temperature = 27 *C
+Pressure = 73 Pa
+Approx altitude = 49 m
+578846112
+Temperature = 20 *C
+Pressure = 71 Pa
+Approx altitude = 126 m
+580855540
+Temperature = 23 *C
+Pressure = 70 Pa
+Approx altitude = 12 m
+582865916
+Temperature = 27 *C
+Pressure = 73 Pa
+Approx altitude = 20 m
+584875308
+Temperature = 23 *C
+Pressure = 55 Pa
+Approx altitude = 21 m
+586884688
+Temperature = 25 *C
+Pressure = 60 Pa
+Approx altitude = 5 m
+588894032
+Temperature = 27 *C
+Pressure = 60 Pa
+Approx altitude = 3 m
+590902372
+Temperature = 26 *C
+Pressure = 85 Pa
+Approx altitude = 90 m
+592910760
+Temperature = 21 *C
+Pressure = 85 Pa
+Approx altitude = 117 m
+594920188
+Temperature = 24 *C
+Pressure = 76 Pa
+Approx altitude = 35 m
+596930568
+Temperature = 23 *C
+Pressure = 73 Pa
+Approx altitude = 42 m
+598939952
+Temperature = 26 *C
+Pressure = 89 Pa
+Approx altitude = 81 m
+600949336
+Temperature = 22 *C
+Pressure = 67 Pa
+Approx altitude = 31 m
+602958720
+Temperature = 28 *C
+Pressure = 54 Pa
+Approx altitude = 38 m
+604968104
+Temperature = 24 *C
+Pressure = 50 Pa
+Approx altitude = 79 m
+606977488
+Temperature = 20 *C
+Pressure = 77 Pa
+Approx altitude = 90 m
+608986872
+Temperature = 21 *C
+Pressure = 52 Pa
+Approx altitude = 50 m
+610996252
+Temperature = 25 *C
+Pressure = 60 Pa
+Approx altitude = 38 m
+613005636
+Temperature = 25 *C
+Pressure = 83 Pa
+Approx altitude = 34 m
+615015024
+Temperature = 28 *C
+Pressure = 50 Pa
+Approx altitude = 137 m
+617024452
+Temperature = 20 *C
+Pressure = 84 Pa
+Approx altitude = 48 m
+619034828
+Temperature = 20 *C
+Pressure = 81 Pa
+Approx altitude = 73 m
+621044216
+Temperature = 27 *C
+Pressure = 74 Pa
+Approx altitude = 63 m
+623053600
+Temperature = 26 *C
+Pressure = 74 Pa
+Approx altitude = 108 m
+625063024
+Temperature = 21 *C
+Pressure = 84 Pa
+Approx altitude = 79 m
+627073408
+Temperature = 21 *C
+Pressure = 78 Pa
+Approx altitude = 124 m
+629082836
+Temperature = 24 *C
+Pressure = 73 Pa
+Approx altitude = 85 m
+631093216
+Temperature = 20 *C
+Pressure = 73 Pa
+Approx altitude = 18 m
+633102620
+Temperature = 27 *C
+Pressure = 71 Pa
+Approx altitude = 92 m
+635112008
+Temperature = 23 *C
+Pressure = 53 Pa
+Approx altitude = 8 m
+637121352
+Temperature = 22 *C
+Pressure = 69 Pa
+Approx altitude = 56 m
+639129740
+Temperature = 25 *C
+Pressure = 57 Pa
+Approx altitude = 69 m
+641139120
+Temperature = 25 *C
+Pressure = 78 Pa
+Approx altitude = 139 m
+643148552
+Temperature = 20 *C
+Pressure = 76 Pa
+Approx altitude = 81 m
+645158932
+Temperature = 21 *C
+Pressure = 86 Pa
+Approx altitude = 33 m
+647168328
+Temperature = 20 *C
+Pressure = 84 Pa
+Approx altitude = 98 m
+649177716
+Temperature = 21 *C
+Pressure = 61 Pa
+Approx altitude = 6 m
+651187052
+Temperature = 27 *C
+Pressure = 77 Pa
+Approx altitude = 128 m
+653195484
+Temperature = 28 *C
+Pressure = 57 Pa
+Approx altitude = 47 m
+655205864
+Temperature = 22 *C
+Pressure = 65 Pa
+Approx altitude = 24 m
+657215248
+Temperature = 24 *C
+Pressure = 85 Pa
+Approx altitude = 96 m
+659224632
+Temperature = 22 *C
+Pressure = 78 Pa
+Approx altitude = 33 m
+661234016
+Temperature = 22 *C
+Pressure = 77 Pa
+Approx altitude = 104 m
+663243444
+Temperature = 21 *C
+Pressure = 56 Pa
+Approx altitude = 69 m
+665253824
+Temperature = 21 *C
+Pressure = 62 Pa
+Approx altitude = 110 m
+667263252
+Temperature = 24 *C
+Pressure = 71 Pa
+Approx altitude = 141 m
+669273676
+Temperature = 21 *C
+Pressure = 51 Pa
+Approx altitude = 21 m
+671284056
+Temperature = 20 *C
+Pressure = 80 Pa
+Approx altitude = 108 m
+673293480
+Temperature = 23 *C
+Pressure = 84 Pa
+Approx altitude = 19 m
+675303864
+Temperature = 20 *C
+Pressure = 60 Pa
+Approx altitude = 107 m
+677313292
+Temperature = 25 *C
+Pressure = 67 Pa
+Approx altitude = 131 m
+679323716
+Temperature = 25 *C
+Pressure = 82 Pa
+Approx altitude = 113 m
+681334140
+Temperature = 24 *C
+Pressure = 83 Pa
+Approx altitude = 98 m
+683344520
+Temperature = 21 *C
+Pressure = 86 Pa
+Approx altitude = 64 m
+685353904
+Temperature = 22 *C
+Pressure = 70 Pa
+Approx altitude = 34 m
+687363288
+Temperature = 28 *C
+Pressure = 74 Pa
+Approx altitude = 105 m
+689372716
+Temperature = 20 *C
+Pressure = 74 Pa
+Approx altitude = 5 m
+691383052
+Temperature = 21 *C
+Pressure = 66 Pa
+Approx altitude = 86 m
+693391440
+Temperature = 27 *C
+Pressure = 68 Pa
+Approx altitude = 88 m
+695400824
+Temperature = 24 *C
+Pressure = 58 Pa
+Approx altitude = 51 m
+697410208
+Temperature = 28 *C
+Pressure = 50 Pa
+Approx altitude = 147 m
+699419636
+Temperature = 26 *C
+Pressure = 73 Pa
+Approx altitude = 16 m
+701430016
+Temperature = 24 *C
+Pressure = 88 Pa
+Approx altitude = 143 m
+703439444
+Temperature = 25 *C
+Pressure = 72 Pa
+Approx altitude = 78 m
+705449824
+Temperature = 20 *C
+Pressure = 50 Pa
+Approx altitude = 8 m
+707459160
+Temperature = 27 *C
+Pressure = 78 Pa
+Approx altitude = 46 m
+709467556
+Temperature = 20 *C
+Pressure = 79 Pa
+Approx altitude = 95 m
+711476948
+Temperature = 26 *C
+Pressure = 80 Pa
+Approx altitude = 147 m
+713486376
+Temperature = 22 *C
+Pressure = 55 Pa
+Approx altitude = 87 m
+715496756
+Temperature = 20 *C
+Pressure = 81 Pa
+Approx altitude = 90 m
+717506144
+Temperature = 28 *C
+Pressure = 79 Pa
+Approx altitude = 120 m
+719515572
+Temperature = 21 *C
+Pressure = 60 Pa
+Approx altitude = 64 m
+721525948
+Temperature = 28 *C
+Pressure = 54 Pa
+Approx altitude = 4 m
+723535288
+Temperature = 27 *C
+Pressure = 70 Pa
+Approx altitude = 35 m
+725543672
+Temperature = 25 *C
+Pressure = 55 Pa
+Approx altitude = 118 m
+727553104
+Temperature = 20 *C
+Pressure = 60 Pa
+Approx altitude = 47 m
+729563484
+Temperature = 23 *C
+Pressure = 63 Pa
+Approx altitude = 143 m
+731572912
+Temperature = 26 *C
+Pressure = 71 Pa
+Approx altitude = 1 m
+733583248
+Temperature = 25 *C
+Pressure = 73 Pa
+Approx altitude = 4 m
+735591592
+Temperature = 25 *C
+Pressure = 87 Pa
+Approx altitude = 14 m
+737599980
+Temperature = 27 *C
+Pressure = 68 Pa
+Approx altitude = 136 m
+739609412
+Temperature = 23 *C
+Pressure = 71 Pa
+Approx altitude = 62 m
+741619788
+Temperature = 21 *C
+Pressure = 59 Pa
+Approx altitude = 73 m
+743629172
+Temperature = 23 *C
+Pressure = 72 Pa
+Approx altitude = 127 m
+745638600
+Temperature = 26 *C
+Pressure = 77 Pa
+Approx altitude = 50 m
+747648984
+Temperature = 20 *C
+Pressure = 82 Pa
+Approx altitude = 23 m
+749658364
+Temperature = 25 *C
+Pressure = 66 Pa
+Approx altitude = 113 m
+751667792
+Temperature = 21 *C
+Pressure = 83 Pa
+Approx altitude = 76 m
+753678172
+Temperature = 26 *C
+Pressure = 62 Pa
+Approx altitude = 62 m
+755687556
+Temperature = 21 *C
+Pressure = 83 Pa
+Approx altitude = 116 m
+757696988
+Temperature = 20 *C
+Pressure = 65 Pa
+Approx altitude = 59 m
+759707364
+Temperature = 27 *C
+Pressure = 68 Pa
+Approx altitude = 12 m
+761716748
+Temperature = 26 *C
+Pressure = 68 Pa
+Approx altitude = 100 m
+763726176
+Temperature = 27 *C
+Pressure = 88 Pa
+Approx altitude = 89 m
+765736556
+Temperature = 25 *C
+Pressure = 52 Pa
+Approx altitude = 14 m
+767745940
+Temperature = 28 *C
+Pressure = 56 Pa
+Approx altitude = 21 m
+769755324
+Temperature = 25 *C
+Pressure = 54 Pa
+Approx altitude = 139 m
+771764752
+Temperature = 26 *C
+Pressure = 52 Pa
+Approx altitude = 138 m
+773775176
+Temperature = 28 *C
+Pressure = 72 Pa
+Approx altitude = 117 m
+775785600
+Temperature = 25 *C
+Pressure = 57 Pa
+Approx altitude = 53 m
+777795980
+Temperature = 23 *C
+Pressure = 50 Pa
+Approx altitude = 114 m
+779805408
+Temperature = 25 *C
+Pressure = 62 Pa
+Approx altitude = 28 m
+781815780
+Temperature = 21 *C
+Pressure = 70 Pa
+Approx altitude = 21 m
+783825172
+Temperature = 21 *C
+Pressure = 53 Pa
+Approx altitude = 3 m
+785834512
+Temperature = 26 *C
+Pressure = 51 Pa
+Approx altitude = 29 m
+787842900
+Temperature = 27 *C
+Pressure = 56 Pa
+Approx altitude = 6 m
+789852240
+Temperature = 25 *C
+Pressure = 61 Pa
+Approx altitude = 117 m
+791860672
+Temperature = 27 *C
+Pressure = 56 Pa
+Approx altitude = 40 m
+793871052
+Temperature = 27 *C
+Pressure = 64 Pa
+Approx altitude = 64 m
+795880432
+Temperature = 22 *C
+Pressure = 65 Pa
+Approx altitude = 43 m
+797889820
+Temperature = 21 *C
+Pressure = 67 Pa
+Approx altitude = 82 m
+799899204
+Temperature = 22 *C
+Pressure = 62 Pa
+Approx altitude = 4 m
+801908544
+Temperature = 27 *C
+Pressure = 64 Pa
+Approx altitude = 4 m
+803916888
+Temperature = 27 *C
+Pressure = 54 Pa
+Approx altitude = 129 m
+805925320
+Temperature = 23 *C
+Pressure = 80 Pa
+Approx altitude = 147 m
+807935744
+Temperature = 22 *C
+Pressure = 79 Pa
+Approx altitude = 114 m
+809946168
+Temperature = 25 *C
+Pressure = 54 Pa
+Approx altitude = 77 m
+811956548
+Temperature = 25 *C
+Pressure = 69 Pa
+Approx altitude = 62 m
+813965932
+Temperature = 20 *C
+Pressure = 73 Pa
+Approx altitude = 90 m
+815975320
+Temperature = 20 *C
+Pressure = 80 Pa
+Approx altitude = 91 m
+817984700
+Temperature = 21 *C
+Pressure = 51 Pa
+Approx altitude = 108 m
+819994128
+Temperature = 20 *C
+Pressure = 59 Pa
+Approx altitude = 29 m
+822004508
+Temperature = 20 *C
+Pressure = 71 Pa
+Approx altitude = 126 m
+824013936
+Temperature = 27 *C
+Pressure = 53 Pa
+Approx altitude = 38 m
+826024316
+Temperature = 26 *C
+Pressure = 57 Pa
+Approx altitude = 36 m
+828033704
+Temperature = 27 *C
+Pressure = 69 Pa
+Approx altitude = 118 m
+830043128
+Temperature = 25 *C
+Pressure = 81 Pa
+Approx altitude = 2 m
+832053468
+Temperature = 22 *C
+Pressure = 60 Pa
+Approx altitude = 40 m
+834061852
+Temperature = 20 *C
+Pressure = 66 Pa
+Approx altitude = 22 m
+836071236
+Temperature = 24 *C
+Pressure = 63 Pa
+Approx altitude = 90 m
+838080628
+Temperature = 24 *C
+Pressure = 69 Pa
+Approx altitude = 9 m
+840089972
+Temperature = 21 *C
+Pressure = 58 Pa
+Approx altitude = 65 m
+842098364
+Temperature = 28 *C
+Pressure = 67 Pa
+Approx altitude = 121 m
+844107800
+Temperature = 21 *C
+Pressure = 78 Pa
+Approx altitude = 18 m
+846118184
+Temperature = 20 *C
+Pressure = 58 Pa
+Approx altitude = 139 m
+848127612
+Temperature = 28 *C
+Pressure = 65 Pa
+Approx altitude = 33 m
+850137996
+Temperature = 20 *C
+Pressure = 58 Pa
+Approx altitude = 115 m
+852147432
+Temperature = 26 *C
+Pressure = 74 Pa
+Approx altitude = 53 m
+854157816
+Temperature = 22 *C
+Pressure = 88 Pa
+Approx altitude = 136 m
+856167256
+Temperature = 24 *C
+Pressure = 88 Pa
+Approx altitude = 140 m
+858177676
+Temperature = 27 *C
+Pressure = 51 Pa
+Approx altitude = 149 m
+860188100
+Temperature = 25 *C
+Pressure = 67 Pa
+Approx altitude = 128 m
+862198524
+Temperature = 24 *C
+Pressure = 88 Pa
+Approx altitude = 28 m
+864208904
+Temperature = 26 *C
+Pressure = 85 Pa
+Approx altitude = 132 m
+866218332
+Temperature = 28 *C
+Pressure = 58 Pa
+Approx altitude = 21 m
+868228708
+Temperature = 25 *C
+Pressure = 53 Pa
+Approx altitude = 47 m
+870238096
+Temperature = 23 *C
+Pressure = 83 Pa
+Approx altitude = 2 m
+872247440
+Temperature = 27 *C
+Pressure = 65 Pa
+Approx altitude = 56 m
+874255824
+Temperature = 20 *C
+Pressure = 54 Pa
+Approx altitude = 48 m
+876265208
+Temperature = 25 *C
+Pressure = 69 Pa
+Approx altitude = 23 m
+878274588
+Temperature = 25 *C
+Pressure = 78 Pa
+Approx altitude = 110 m
+880284020
+Temperature = 22 *C
+Pressure = 84 Pa
+Approx altitude = 90 m
+882294400
+Temperature = 23 *C
+Pressure = 75 Pa
+Approx altitude = 78 m
+884303784
+Temperature = 22 *C
+Pressure = 85 Pa
+Approx altitude = 72 m
+886313168
+Temperature = 24 *C
+Pressure = 53 Pa
+Approx altitude = 116 m
+888322596
+Temperature = 21 *C
+Pressure = 64 Pa
+Approx altitude = 86 m
+890332976
+Temperature = 27 *C
+Pressure = 74 Pa
+Approx altitude = 110 m
+892342404
+Temperature = 20 *C
+Pressure = 89 Pa
+Approx altitude = 21 m
+894352784
+Temperature = 24 *C
+Pressure = 56 Pa
+Approx altitude = 78 m
+896362168
+Temperature = 24 *C
+Pressure = 57 Pa
+Approx altitude = 93 m
+898371548
+Temperature = 25 *C
+Pressure = 57 Pa
+Approx altitude = 57 m
+900380952
+Temperature = 27 *C
+Pressure = 52 Pa
+Approx altitude = 46 m
+902390332
+Temperature = 23 *C
+Pressure = 62 Pa
+Approx altitude = 94 m
+904399716
+Temperature = 21 *C
+Pressure = 81 Pa
+Approx altitude = 64 m
+906409104
+Temperature = 24 *C
+Pressure = 50 Pa
+Approx altitude = 143 m
+908418544
+Temperature = 22 *C
+Pressure = 80 Pa
+Approx altitude = 26 m
+910428924
+Temperature = 22 *C
+Pressure = 75 Pa
+Approx altitude = 135 m
+912438352
+Temperature = 24 *C
+Pressure = 78 Pa
+Approx altitude = 115 m
+914448776
+Temperature = 27 *C
+Pressure = 70 Pa
+Approx altitude = 39 m
+916459156
+Temperature = 25 *C
+Pressure = 72 Pa
+Approx altitude = 46 m
+918468540
+Temperature = 24 *C
+Pressure = 87 Pa
+Approx altitude = 33 m
+920477924
+Temperature = 21 *C
+Pressure = 59 Pa
+Approx altitude = 57 m
+922487308
+Temperature = 24 *C
+Pressure = 79 Pa
+Approx altitude = 20 m
+924496692
+Temperature = 27 *C
+Pressure = 55 Pa
+Approx altitude = 32 m
+926506076
+Temperature = 24 *C
+Pressure = 51 Pa
+Approx altitude = 122 m
+928515516
+Temperature = 24 *C
+Pressure = 72 Pa
+Approx altitude = 125 m
+930525940
+Temperature = 24 *C
+Pressure = 76 Pa
+Approx altitude = 104 m
+932536368
+Temperature = 24 *C
+Pressure = 60 Pa
+Approx altitude = 69 m
+934546756
+Temperature = 24 *C
+Pressure = 68 Pa
+Approx altitude = 93 m
+936556140
+Temperature = 23 *C
+Pressure = 66 Pa
+Approx altitude = 146 m
+938565568
+Temperature = 24 *C
+Pressure = 74 Pa
+Approx altitude = 95 m
+940575948
+Temperature = 24 *C
+Pressure = 61 Pa
+Approx altitude = 99 m
+942585332
+Temperature = 21 *C
+Pressure = 84 Pa
+Approx altitude = 23 m
+944594716
+Temperature = 24 *C
+Pressure = 55 Pa
+Approx altitude = 133 m
+946604144
+Temperature = 20 *C
+Pressure = 69 Pa
+Approx altitude = 35 m
+948614524
+Temperature = 23 *C
+Pressure = 56 Pa
+Approx altitude = 41 m
+950623908
+Temperature = 22 *C
+Pressure = 72 Pa
+Approx altitude = 112 m
+952633336
+Temperature = 28 *C
+Pressure = 85 Pa
+Approx altitude = 76 m
+954643716
+Temperature = 24 *C
+Pressure = 88 Pa
+Approx altitude = 105 m
+956653148
+Temperature = 25 *C
+Pressure = 63 Pa
+Approx altitude = 116 m
+958663568
+Temperature = 22 *C
+Pressure = 62 Pa
+Approx altitude = 103 m
+960673992
+Temperature = 25 *C
+Pressure = 58 Pa
+Approx altitude = 71 m
+962684376
+Temperature = 26 *C
+Pressure = 86 Pa
+Approx altitude = 19 m
+964693756
+Temperature = 27 *C
+Pressure = 59 Pa
+Approx altitude = 20 m
+966703136
+Temperature = 24 *C
+Pressure = 58 Pa
+Approx altitude = 66 m
+968712528
+Temperature = 20 *C
+Pressure = 76 Pa
+Approx altitude = 29 m
+970721908
+Temperature = 23 *C
+Pressure = 67 Pa
+Approx altitude = 2 m
+972731248
+Temperature = 20 *C
+Pressure = 57 Pa
+Approx altitude = 61 m
+974739640
+Temperature = 28 *C
+Pressure = 66 Pa
+Approx altitude = 3 m
+976748976
+Temperature = 27 *C
+Pressure = 80 Pa
+Approx altitude = 131 m
+978757408
+Temperature = 28 *C
+Pressure = 66 Pa
+Approx altitude = 136 m
+980767832
+Temperature = 20 *C
+Pressure = 52 Pa
+Approx altitude = 75 m
+982778212
+Temperature = 24 *C
+Pressure = 62 Pa
+Approx altitude = 32 m
+984787596
+Temperature = 21 *C
+Pressure = 65 Pa
+Approx altitude = 31 m
+986796984
+Temperature = 23 *C
+Pressure = 58 Pa
+Approx altitude = 84 m
+988806368
+Temperature = 27 *C
+Pressure = 80 Pa
+Approx altitude = 8 m
+990815700
+Temperature = 20 *C
+Pressure = 82 Pa
+Approx altitude = 101 m
+992824136
+Temperature = 21 *C
+Pressure = 59 Pa
+Approx altitude = 13 m
+994834512
+Temperature = 21 *C
+Pressure = 71 Pa
+Approx altitude = 49 m
+996843900
+Temperature = 27 *C
+Pressure = 59 Pa
+Approx altitude = 33 m
+998853284
+Temperature = 20 *C
+Pressure = 89 Pa
+Approx altitude = 32 m
+1000862668
+Temperature = 21 *C
+Pressure = 50 Pa
+Approx altitude = 59 m
+1002873092
+Temperature = 28 *C
+Pressure = 52 Pa
+Approx altitude = 58 m
+1004883516
+Temperature = 28 *C
+Pressure = 51 Pa
+Approx altitude = 149 m
+1006893984
+Temperature = 28 *C
+Pressure = 55 Pa
+Approx altitude = 73 m
+1008905404
+Temperature = 22 *C
+Pressure = 75 Pa
+Approx altitude = 142 m
+1010915872
+Temperature = 23 *C
+Pressure = 50 Pa
+Approx altitude = 78 m
+1012927292
+Temperature = 28 *C
+Pressure = 87 Pa
+Approx altitude = 117 m
+1014937764
+Temperature = 26 *C
+Pressure = 68 Pa
+Approx altitude = 123 m
+1016949224
+Temperature = 22 *C
+Pressure = 50 Pa
+Approx altitude = 70 m
+1018960644
+Temperature = 27 *C
+Pressure = 72 Pa
+Approx altitude = 147 m
+1020971112
+Temperature = 23 *C
+Pressure = 85 Pa
+Approx altitude = 75 m
+1022982532
+Temperature = 23 *C
+Pressure = 52 Pa
+Approx altitude = 126 m
+1024993000
+Temperature = 23 *C
+Pressure = 71 Pa
+Approx altitude = 100 m
+1027004464
+Temperature = 25 *C
+Pressure = 50 Pa
+Approx altitude = 107 m
+1029015928
+Temperature = 24 *C
+Pressure = 52 Pa
+Approx altitude = 69 m
+1031027348
+Temperature = 20 *C
+Pressure = 83 Pa
+Approx altitude = 134 m
+1033037816
+Temperature = 24 *C
+Pressure = 74 Pa
+Approx altitude = 18 m
+1035049240
+Temperature = 27 *C
+Pressure = 51 Pa
+Approx altitude = 58 m
+1037059660
+Temperature = 27 *C
+Pressure = 81 Pa
+Approx altitude = 45 m
+1039070084
+Temperature = 20 *C
+Pressure = 74 Pa
+Approx altitude = 6 m
+1041080464
+Temperature = 27 *C
+Pressure = 83 Pa
+Approx altitude = 140 m
+1043089936
+Temperature = 24 *C
+Pressure = 88 Pa
+Approx altitude = 103 m
+1045101400
+Temperature = 26 *C
+Pressure = 73 Pa
+Approx altitude = 61 m
+1047112824
+Temperature = 26 *C
+Pressure = 73 Pa
+Approx altitude = 108 m
+1049123288
+Temperature = 24 *C
+Pressure = 62 Pa
+Approx altitude = 23 m
+1051134708
+Temperature = 20 *C
+Pressure = 72 Pa
+Approx altitude = 33 m
+1053145132
+Temperature = 22 *C
+Pressure = 83 Pa
+Approx altitude = 141 m
+1055155600
+Temperature = 26 *C
+Pressure = 60 Pa
+Approx altitude = 76 m
+1057167020
+Temperature = 28 *C
+Pressure = 68 Pa
+Approx altitude = 139 m
+1059177496
+Temperature = 26 *C
+Pressure = 80 Pa
+Approx altitude = 6 m
+1061188876
+Temperature = 21 *C
+Pressure = 73 Pa
+Approx altitude = 130 m
+1063198352
+Temperature = 24 *C
+Pressure = 63 Pa
+Approx altitude = 145 m
+1065209816
+Temperature = 23 *C
+Pressure = 75 Pa
+Approx altitude = 116 m
+1067221292
+Temperature = 20 *C
+Pressure = 83 Pa
+Approx altitude = 55 m
+1069232712
+Temperature = 22 *C
+Pressure = 74 Pa
+Approx altitude = 56 m
+1071243136
+Temperature = 23 *C
+Pressure = 73 Pa
+Approx altitude = 61 m
+1073253560
+Temperature = 25 *C
+Pressure = 67 Pa
+Approx altitude = 89 m
+1075263996
+Temperature = 26 *C
+Pressure = 82 Pa
+Approx altitude = 45 m
+1077274420
+Temperature = 24 *C
+Pressure = 77 Pa
+Approx altitude = 9 m
+1079284808
+Temperature = 28 *C
+Pressure = 82 Pa
+Approx altitude = 49 m
+1081294240
+Temperature = 21 *C
+Pressure = 59 Pa
+Approx altitude = 89 m
+1083304664
+Temperature = 22 *C
+Pressure = 89 Pa
+Approx altitude = 56 m
+1085315088
+Temperature = 27 *C
+Pressure = 53 Pa
+Approx altitude = 74 m
+1087325512
+Temperature = 24 *C
+Pressure = 77 Pa
+Approx altitude = 42 m
+1089335940
+Temperature = 24 *C
+Pressure = 77 Pa
+Approx altitude = 56 m
+1091346360
+Temperature = 28 *C
+Pressure = 86 Pa
+Approx altitude = 123 m
+1093356828
+Temperature = 22 *C
+Pressure = 64 Pa
+Approx altitude = 64 m
+1095368248
+Temperature = 22 *C
+Pressure = 52 Pa
+Approx altitude = 74 m
+1097378672
+Temperature = 22 *C
+Pressure = 81 Pa
+Approx altitude = 114 m
+1099389144
+Temperature = 21 *C
+Pressure = 83 Pa
+Approx altitude = 58 m
+1101400556
+Temperature = 28 *C
+Pressure = 74 Pa
+Approx altitude = 94 m
+1103410984
+Temperature = 27 *C
+Pressure = 80 Pa
+Approx altitude = 22 m
+1105421408
+Temperature = 26 *C
+Pressure = 76 Pa
+Approx altitude = 16 m
+1107431832
+Temperature = 26 *C
+Pressure = 69 Pa
+Approx altitude = 62 m
+1109442256
+Temperature = 24 *C
+Pressure = 68 Pa
+Approx altitude = 26 m
+1111452680
+Temperature = 23 *C
+Pressure = 56 Pa
+Approx altitude = 15 m
+1113463104
+Temperature = 27 *C
+Pressure = 71 Pa
+Approx altitude = 144 m
+1115473572
+Temperature = 27 *C
+Pressure = 88 Pa
+Approx altitude = 32 m
+1117484992
+Temperature = 24 *C
+Pressure = 87 Pa
+Approx altitude = 102 m
+1119495460
+Temperature = 23 *C
+Pressure = 72 Pa
+Approx altitude = 68 m
+1121506880
+Temperature = 24 *C
+Pressure = 54 Pa
+Approx altitude = 24 m
+1123517304
+Temperature = 27 *C
+Pressure = 77 Pa
+Approx altitude = 88 m
+1125527728
+Temperature = 28 *C
+Pressure = 69 Pa
+Approx altitude = 54 m
+1127538152
+Temperature = 25 *C
+Pressure = 51 Pa
+Approx altitude = 148 m
+1129548620
+Temperature = 20 *C
+Pressure = 55 Pa
+Approx altitude = 125 m
+1131560092
+Temperature = 21 *C
+Pressure = 74 Pa
+Approx altitude = 123 m
+1133571564
+Temperature = 24 *C
+Pressure = 69 Pa
+Approx altitude = 112 m
+1135583032
+Temperature = 25 *C
+Pressure = 61 Pa
+Approx altitude = 42 m
+1137594460
+Temperature = 25 *C
+Pressure = 63 Pa
+Approx altitude = 13 m
+1139604896
+Temperature = 24 *C
+Pressure = 51 Pa
+Approx altitude = 36 m
+1141615320
+Temperature = 23 *C
+Pressure = 86 Pa
+Approx altitude = 94 m
+1143625744
+Temperature = 24 *C
+Pressure = 54 Pa
+Approx altitude = 103 m
+1145636212
+Temperature = 26 *C
+Pressure = 81 Pa
+Approx altitude = 18 m
+1147647632
+Temperature = 24 *C
+Pressure = 75 Pa
+Approx altitude = 98 m
+1149658056
+Temperature = 27 *C
+Pressure = 87 Pa
+Approx altitude = 61 m
+1151668480
+Temperature = 25 *C
+Pressure = 74 Pa
+Approx altitude = 120 m
+1153678948
+Temperature = 22 *C
+Pressure = 73 Pa
+Approx altitude = 4 m
+1155690324
+Temperature = 22 *C
+Pressure = 55 Pa
+Approx altitude = 99 m
+1157699752
+Temperature = 28 *C
+Pressure = 62 Pa
+Approx altitude = 124 m
+1159710220
+Temperature = 20 *C
+Pressure = 74 Pa
+Approx altitude = 74 m
+1161721640
+Temperature = 24 *C
+Pressure = 70 Pa
+Approx altitude = 129 m
+1163732112
+Temperature = 26 *C
+Pressure = 53 Pa
+Approx altitude = 124 m
+1165743584
+Temperature = 21 *C
+Pressure = 54 Pa
+Approx altitude = 101 m
+1167755048
+Temperature = 26 *C
+Pressure = 55 Pa
+Approx altitude = 49 m
+1169766468
+Temperature = 20 *C
+Pressure = 66 Pa
+Approx altitude = 56 m
+1171776892
+Temperature = 24 *C
+Pressure = 69 Pa
+Approx altitude = 16 m
+1173787312
+Temperature = 28 *C
+Pressure = 75 Pa
+Approx altitude = 104 m
+1175797788
+Temperature = 20 *C
+Pressure = 75 Pa
+Approx altitude = 110 m
+1177809248
+Temperature = 24 *C
+Pressure = 85 Pa
+Approx altitude = 116 m
+1179820712
+Temperature = 22 *C
+Pressure = 59 Pa
+Approx altitude = 46 m
+1181832132
+Temperature = 22 *C
+Pressure = 76 Pa
+Approx altitude = 2 m
+1183842516
+Temperature = 28 *C
+Pressure = 75 Pa
+Approx altitude = 65 m
+1185851940
+Temperature = 21 *C
+Pressure = 63 Pa
+Approx altitude = 131 m
+1187862404
+Temperature = 27 *C
+Pressure = 73 Pa
+Approx altitude = 74 m
+1189873832
+Temperature = 28 *C
+Pressure = 71 Pa
+Approx altitude = 37 m
+1191884252
+Temperature = 24 *C
+Pressure = 85 Pa
+Approx altitude = 100 m
+1193894720
+Temperature = 27 *C
+Pressure = 89 Pa
+Approx altitude = 85 m
+1195906140
+Temperature = 24 *C
+Pressure = 63 Pa
+Approx altitude = 53 m
+1197916564
+Temperature = 27 *C
+Pressure = 78 Pa
+Approx altitude = 48 m
+1199926984
+Temperature = 22 *C
+Pressure = 57 Pa
+Approx altitude = 125 m
+1201937452
+Temperature = 22 *C
+Pressure = 68 Pa
+Approx altitude = 80 m
+1203948876
+Temperature = 28 *C
+Pressure = 84 Pa
+Approx altitude = 11 m
+1205959300
+Temperature = 22 *C
+Pressure = 88 Pa
+Approx altitude = 116 m
+1207969768
+Temperature = 20 *C
+Pressure = 74 Pa
+Approx altitude = 116 m
+1209981236
+Temperature = 24 *C
+Pressure = 87 Pa
+Approx altitude = 35 m
+1211992652
+Temperature = 28 *C
+Pressure = 66 Pa
+Approx altitude = 131 m
+1214003120
+Temperature = 24 *C
+Pressure = 83 Pa
+Approx altitude = 26 m
+1216014540
+Temperature = 28 *C
+Pressure = 74 Pa
+Approx altitude = 107 m
+1218025008
+Temperature = 27 *C
+Pressure = 52 Pa
+Approx altitude = 107 m
+1220036472
+Temperature = 22 *C
+Pressure = 79 Pa
+Approx altitude = 9 m
+1222047852
+Temperature = 22 *C
+Pressure = 83 Pa
+Approx altitude = 118 m
+1224057320
+Temperature = 21 *C
+Pressure = 50 Pa
+Approx altitude = 82 m
+1226068740
+Temperature = 25 *C
+Pressure = 74 Pa
+Approx altitude = 35 m
+1228079160
+Temperature = 21 *C
+Pressure = 50 Pa
+Approx altitude = 115 m
+1230089632
+Temperature = 21 *C
+Pressure = 51 Pa
+Approx altitude = 39 m
+1232101052
+Temperature = 25 *C
+Pressure = 63 Pa
+Approx altitude = 39 m
+1234111472
+Temperature = 28 *C
+Pressure = 70 Pa
+Approx altitude = 70 m
+1236121900
+Temperature = 21 *C
+Pressure = 80 Pa
+Approx altitude = 15 m
+1238132324
+Temperature = 21 *C
+Pressure = 64 Pa
+Approx altitude = 52 m
+1240142748
+Temperature = 22 *C
+Pressure = 61 Pa
+Approx altitude = 46 m
+1242153172
+Temperature = 28 *C
+Pressure = 60 Pa
+Approx altitude = 20 m
+1244163596
+Temperature = 25 *C
+Pressure = 71 Pa
+Approx altitude = 18 m
+1246174020
+Temperature = 28 *C
+Pressure = 84 Pa
+Approx altitude = 33 m
+1248184444
+Temperature = 23 *C
